@@ -1,5 +1,7 @@
 # Vis-Spectrometer-based-on-the-diffraction-grating-and-Raspberry-Pi-camera.
-The present project presents the implementation of a spectrometer using optoelectronic notions, 3D printing as well as image processing in Python and the control of a step-by-step engine in C.
+
+Utilizing previous implementations as a foundation, we have modified and applied them to create a spectrometer operating within the visible spectrum. This was achieved through the
+utilization of a Raspberry Pi development board, a diffraction grid with 1000 gravures/mm. For real-time analysis Python-based software was used.
 
 Final spectrometer:
 
